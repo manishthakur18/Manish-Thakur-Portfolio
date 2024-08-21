@@ -1,6 +1,6 @@
 ## Built With
 
-My personal portfolio https://manish-thakur-portfolio-eta.vercel.app/ which features some of my github projects as well as my resume and technical skills.
+My personal portfolio https://manish-thakur-portfolio-nine.vercel.app/ which features some of my github projects as well as my resume and technical skills.
 
 This project was built using these technologies.
 
